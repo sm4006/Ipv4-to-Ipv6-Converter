@@ -1,0 +1,4 @@
+# ip_converter.py has no runtime dependencies.
+# It only uses the Python standard library (Python 3.7+).
+#
+# See requirements-dev.txt for optional linting/testing tools used in CI.
