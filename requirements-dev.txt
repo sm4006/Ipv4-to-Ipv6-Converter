@@ -3,6 +3,6 @@
 # Python standard library. These packages are used purely for linting,
 # testing, and security scanning in CI (see .github/workflows/ci.yml).
 
-pytest>=8.0.0
+pytest>=9.2.0
 flake8>=7.0.0
 pip-audit>=2.7.0
